@@ -25,7 +25,7 @@ public class ThreadClient implements Runnable {
 			
 				int operation = entree.readInt();
 				
-				
+				//
 								
 				while(operation != 0) {
 					float a=0, b=0;
